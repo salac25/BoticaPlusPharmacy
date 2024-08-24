@@ -46,7 +46,7 @@ endwhile; ?>
 					<p>We aim to provide accessible, affordable, and high-quality healthcare products and services to communities across the country.</p>
 				</div>
 				<div class="col-md-6 mb-4">
-					<h5 class="text-primary">Our History</h5>
+					<h5 class="">Our History</h5>
 					<p>Founded in [Year], our pharmacy franchise has grown from a single location to a trusted network of pharmacies across the nation.</p>
 				</div>
 			</div>
